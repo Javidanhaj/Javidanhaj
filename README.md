@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C++, Java
+- 🌱 I’m currently learning Java, JS/APIs
 - 📫 How to reach me: instagram: @javidannhajizada
 <!--
 **Javidanhaj/Javidanhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
