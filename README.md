@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on developing myself<br>🌱 I’m currently learning Spring Framework<br>⚡ Fun fact: I love gaming
+🔭 I'm currently working on developing my personal projects<br>🌱 I’m currently learning Spring Security<br>⚡ Fun fact: I love gaming and learning!
 
 
 ## 🌐 Socials:
